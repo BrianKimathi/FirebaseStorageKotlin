@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763337906915",
+    "project_id": "storagetut-b1202",
+    "storage_bucket": "storagetut-b1202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763337906915:android:84894cf8bee44eefd843d6",
+        "android_client_info": {
+          "package_name": "com.example.firebasestoragetut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763337906915-gvt5rrh7b9t5vn64l77pufm67f5hsp6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtuYMfZlJXSW699nDWsw7vJmzqDhkMhqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763337906915-gvt5rrh7b9t5vn64l77pufm67f5hsp6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
